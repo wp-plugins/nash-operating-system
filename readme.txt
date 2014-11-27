@@ -84,9 +84,10 @@ This is an optional setting and can be left empty if you don't want to filter it
 
 == Screenshots ==
 
-1. This shows the rendering of the Widget in the sidebar of a WP blog.
-2. This shows how to Activate the plugin in the Plugins menu in the WP Admin backend.
-3. Configuring the settings for the Nash.Operating.System widget in the WP Admin backend.
+1. This shows the plugin once you found it after searching the wordpress plugins.
+2. This shows the rendering of the Widget in the sidebar of a WP blog.
+3. This shows how to Activate the plugin in the Plugins menu in the WP Admin backend.
+4. Configuring the settings for the Nash.Operating.System widget in the WP Admin backend.
 
 
 == Changelog ==
