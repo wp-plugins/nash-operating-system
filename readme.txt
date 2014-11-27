@@ -26,7 +26,7 @@ You specify a site's url, a seller's username, a number of items to display, and
    the widget to your sidebar.  You can place it in any position you like.
 
 4. Specify the settings for the widget:
-   Title, Site URL, Username, Number of Items, and Keywords.  For the keywords, you can specify:
+   Title, Site URL, Username, Number of Items, and Keywords. For the keywords, you can specify:
 
     - a single word, like "toyota".  This will fetch items with the word "toyota".
 
@@ -45,7 +45,7 @@ That's it !
 To permanently purchase Nash.Operating.System license,
 you need to visit http://nashbrooklyn.com
 
-To temperary rent Nash.Operating.System license,
+To temporary rent Nash.Operating.System license,
 you need to visit http://nashload.com
 
 = Can I set the visual style of the widget from the admin backend? =
