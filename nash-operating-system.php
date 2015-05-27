@@ -3,7 +3,7 @@
 Plugin Name: Nash.Operating.System
 Plugin URI: http://blog.nashbrooklyn.com
 Description: A WordPress Widget that allows to display items in the sidebar from a unique seller of any site that is powered by Nash.Operating.System.
-Version: 2015.05.26
+Version: 2015.05.27
 Author: NashWorks
 Author URI: http://nashbrooklyn.com
 Donate URI: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7QQ32CGQAQ886
