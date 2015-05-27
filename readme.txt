@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Nash.Operating.System, nash, operating, system, yspcomplete, yspc, ecommerce, shopping cart, auction, auctions, widget, plugin, wordpress
 Requires at least: 3.2
 Tested up to: 4.2.2
-Stable tag: 2015.05.28
+Stable tag: 2015.05.29
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -92,7 +92,7 @@ This is an optional setting and can be left empty if you don't want to filter it
 
 == Changelog ==
 
-= 2015.05.28
+= 2015.05.29
 * light update to fit WordPress's latest requirements
 
 == Dependencies ==
