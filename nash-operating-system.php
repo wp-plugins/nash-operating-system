@@ -22,7 +22,7 @@ curl_close($ch);
 return $data;
 }
 public static function search($site,$uname,$nbitems,$kwords) {
-$query = strtolower($site.'/rssall.php?type=auctiononly&descriptionType=new&uname='.strtolower($uname).'&nbitems='.$nbitems.'kwords='.$kwords);
+$query = strtolower($site.'/rssall.php?type=auctiononly&dtype=new&uname='.$uname.'&nbitems='.$nbitems.'kwords='.$kwords);
 $xmlString = self::httpget($query);
 $itemList = simplexml_load_string($xmlString);
 return $itemList->channel->item;
