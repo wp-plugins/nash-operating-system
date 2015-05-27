@@ -3,10 +3,10 @@
 Plugin Name: Nash.Operating.System
 Plugin URI: http://blog.nashbrooklyn.com
 Description: A WordPress Widget that allows to display items in the sidebar from a unique seller of any site that is powered by Nash.Operating.System.
-Version: 2014.11.25
+Version: 2015.05.26
 Author: NashWorks
 Author URI: http://nashbrooklyn.com
-Donate URI: http://blog.nashbrooklyn.com
+Donate URI: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7QQ32CGQAQ886
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 */
@@ -22,7 +22,7 @@ curl_close($ch);
 return $data;
 }
 public static function search($site,$uname,$nbitems,$kwords) {
-$query = strtolower($site.'/rssall.php?type=auctiononly&uname='.strtolower($uname).'&nbitems='.$nbitems.'kwords='.$kwords);
+$query = strtolower($site.'/rssall.php?type=auctiononly&descriptionType=new&&uname='.strtolower($uname).'&nbitems='.$nbitems.'kwords='.$kwords);
 $xmlString = self::httpget($query);
 $itemList = simplexml_load_string($xmlString);
 return $itemList->channel->item;

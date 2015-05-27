@@ -1,10 +1,10 @@
 === Nash.Operating.System ===
 Contributors: nashworks
-Donate link: http://blog.nashbrooklyn.com
-Tags: Nash.Operating.System, nash, operating, system, yspcomplete, yspc, ecommerce, auction, auctions, widget, plugin, wordpress
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7QQ32CGQAQ886
+Tags: Nash.Operating.System, nash, operating, system, yspcomplete, yspc, ecommerce, shopping cart, auction, auctions, widget, plugin, wordpress
 Requires at least: 3.2
 Tested up to: 4.0.1
-Stable tag: 2014.11.25
+Stable tag: 2015.05.26
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -92,8 +92,8 @@ This is an optional setting and can be left empty if you don't want to filter it
 
 == Changelog ==
 
-= 2014.11.25 =
-* initial release
+= 2015.05.26
+* light update to fit WordPress's latest requirements
 
 == Dependencies ==
 
